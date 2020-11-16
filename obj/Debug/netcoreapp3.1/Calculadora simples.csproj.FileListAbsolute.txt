@@ -1,0 +1,13 @@
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\bin\Debug\netcoreapp3.1\Calculadora simples.exe
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\bin\Debug\netcoreapp3.1\Calculadora simples.deps.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\bin\Debug\netcoreapp3.1\Calculadora simples.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\bin\Debug\netcoreapp3.1\Calculadora simples.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\bin\Debug\netcoreapp3.1\Calculadora simples.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\bin\Debug\netcoreapp3.1\Calculadora simples.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\obj\Debug\netcoreapp3.1\Calculadora simples.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\obj\Debug\netcoreapp3.1\Calculadora simples.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\obj\Debug\netcoreapp3.1\Calculadora simples.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\obj\Debug\netcoreapp3.1\Calculadora simples.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\obj\Debug\netcoreapp3.1\Calculadora simples.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\obj\Debug\netcoreapp3.1\Calculadora simples.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Calculadora simples\obj\Debug\netcoreapp3.1\Calculadora simples.genruntimeconfig.cache
